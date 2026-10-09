@@ -1,0 +1,44 @@
+# ============================================================
+# Material de proyectos: se guarda aquí pero NUNCA se publica.
+# Regla: dentro de assets/ solo se publica assets/images/.
+# Cualquier carpeta nueva que crees en assets/ queda excluida sola.
+# ============================================================
+assets/*
+!assets/images/
+
+# Por si algo pesado cae dentro de assets/images/ por error
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.pptx
+*.docx
+*.pdf
+*.heic
+*.HEIC
+*.drawio
+*.bkp
+*.dtmp
+*.zip
+
+# Archivos de sistema de Windows
+Thumbs.db
+desktop.ini
+
+# Copias que deja la app de Claude al enviar archivos
+Claude outputs/
+
+# Excepción: clips optimizados para el sitio
+!assets/images/**/*.mp4
+
+# Archivos sueltos en la raíz de assets/images no se publican (solo los de subcarpetas)
+/assets/images/*.mp4
+/assets/images/*.png
+/assets/images/*.mov
+
+# Videos crudos de WhatsApp nunca se publican, aunque caigan en una subcarpeta
+assets/images/**/WhatsApp*
+
+# Configuración y contexto de Claude Code (solo local)
+.claude/
+CLAUDE.md
