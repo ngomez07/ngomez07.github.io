@@ -200,6 +200,12 @@ const PROYECTOS = [
       { src: "assets/images/ia-teatro/mar-ecuatoriano.mp4",
         es: "Mar ecuatoriano enmarcado como cuadro — imagen generada con IA para utilería escénica.",
         en: "Ecuadorian sea framed as a painting — AI-generated image for stage props." },
+      { src: "assets/images/ia-teatro/ventana-patio-lluvia.mp4",
+        es: "Ventana al patio en día lluvioso, generada con IA — variación de escenografía para la obra.",
+        en: "Window onto the courtyard on a rainy day, AI-generated — set design variation for the play." },
+      { src: "assets/images/ia-teatro/ventana-patio-sol.mp4",
+        es: "Ventana al patio con árbol de mango, generada con IA — escenografía animada para la obra.",
+        en: "Window onto the courtyard with a mango tree, AI-generated — animated set design for the play." },
     ],
   },
 
