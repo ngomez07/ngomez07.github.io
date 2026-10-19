@@ -71,6 +71,9 @@ const PROYECTOS = [
       { src: "assets/images/sala-nido/suplir-entre-sillas.jpg",
         es: "Suplir · Entre sillas — instalación con las historias que se escuchan en el colmado; audio con botones para cambiar entre español e inglés. Al fondo, Deporte y el Recetario de la calle.",
         en: "Suplir · Entre sillas (Among Chairs) — an installation with the stories heard at the colmado, the neighborhood corner store; button-controlled audio switches between Spanish and English. In the background, Deporte and the Street Recipe Book." },
+      { src: "assets/images/sala-nido/deporte-vitilla-bateando.mp4",
+        es: "Deporte · Vitilla virtual — el visitante juega con un control de movimiento al estilo Wii. Un niño bateando durante las pruebas de usuario.",
+        en: "Deporte · Virtual vitilla — visitors play with a Wii-style motion controller. A child batting during user testing." },
     ],
   },
 
@@ -246,6 +249,9 @@ const PROYECTOS = [
       { src: "assets/images/investigacion/mapping-moto.jpg",
         es: "Mapping de mi moto con visuales audiorreactivas.",
         en: "Projection mapping on my motorcycle with audio-reactive visuals." },
+      { src: "assets/images/investigacion/particulas-touchdesigner.mp4",
+        es: "Visualización de olas de partículas en TouchDesigner — exploración técnica y visual independiente.",
+        en: "Particle wave visualization in TouchDesigner — an independent technical and visual exploration." },
     ],
   },
 
