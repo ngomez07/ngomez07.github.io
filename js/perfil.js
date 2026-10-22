@@ -43,7 +43,7 @@ const TRAYECTORIA = [
   },
   {
     fechas: "2018 – 2019",
-    cargo: { es: "Investigador Asociado", en: "Research Associate" },
+    cargo: { es: "Estudiante investigador — Grupo de investigación", en: "Student researcher — Research group" },
     lugar: "Universidad de los Andes",
     resumen: {
       es: "Simulación de impactos balísticos y dispositivos de asistencia para personas con discapacidad visual.",
@@ -52,7 +52,7 @@ const TRAYECTORIA = [
   },
   {
     fechas: "2015 – 2016",
-    cargo: { es: "Investigador Asociado", en: "Research Associate" },
+    cargo: { es: "Estudiante investigador — Grupo de investigación", en: "Student researcher — Research group" },
     lugar: "Universidad de la Sabana",
     resumen: {
       es: "Diseño de una prótesis transfemoral con control basado en análisis dinámico inverso.",
