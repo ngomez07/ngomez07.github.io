@@ -33,8 +33,8 @@ const PROYECTOS = [
       en: "Technical lead for 22 interactive experiences across 8 zones, designed with the Parque Explora team. I integrated the work of 4 vendors on 30 computers and 11 projectors, designed the room's automation architecture, programmed its remote network management with Bitfocus Companion, and led 3 months of on-site installation, testing and commissioning. Before installing, we user-tested every experience on rented equipment.",
     },
     resultado: {
-      es: "Apertura al público: 23 de octubre de 2026.",
-      en: "Opens to the public on October 23, 2026.",
+      es: "Abierta al público desde el 23 de octubre de 2026.",
+      en: "Open to the public since October 23, 2026.",
     },
     etiquetas: ["Technical Lead", "Vendor Integration", "Unity", "Bitfocus Companion", "VXT", "DMX"],
     galeria: [
@@ -265,14 +265,14 @@ const PROYECTOS = [
     id: "biomedico",
     categoria: "biomedica",
     portada: "assets/images/biomedica/simulador-respiratorio.jpg",
-    meta: { es: "Minciencias · Universidad de los Andes · Universidad de la Sabana · 2015 – 2021", en: "Minciencias · Universidad de los Andes · Universidad de la Sabana · 2015 – 2021" },
+    meta: { es: "Universidad EIA (Minciencias) · Universidad de los Andes · Universidad de la Sabana · 2015 – 2021", en: "Universidad EIA (Minciencias) · Universidad de los Andes · Universidad de la Sabana · 2015 – 2021" },
     titulo: { es: "Investigación biomédica", en: "Biomedical research" },
     descripcion: {
-      es: "Componente viscoelástico para un simulador respiratorio y modelo predictivo para evaluar la salud pulmonar (Minciencias). Dispositivos de asistencia para personas con discapacidad visual y simulación de impactos balísticos (Uniandes). Prótesis transfemoral con control basado en análisis dinámico inverso (La Sabana).",
-      en: "A viscoelastic component for a respiratory simulator and a predictive model for lung health assessment (Minciencias). Assistive devices for people with visual impairments and ballistic impact simulation (Universidad de los Andes). A transfemoral prosthesis controlled through inverse dynamic analysis (Universidad de la Sabana).",
+      es: "Pistón viscoelástico para un simulador respiratorio, pruebas con ventilador mecánico y modelación de su respuesta (Universidad EIA, proyecto Minciencias); tesis de maestría y dirección de trabajos de grado. Dispositivos de asistencia para personas con discapacidad visual y simulación de impactos balísticos (Uniandes). Prótesis transfemoral con control basado en análisis dinámico inverso (La Sabana).",
+      en: "A viscoelastic piston for a respiratory simulator, mechanical-ventilator tests and modeling of its response (Universidad EIA, Minciencias-funded project); master's thesis and undergraduate thesis supervision. Assistive devices for people with visual impairments and ballistic impact simulation (Universidad de los Andes). A transfemoral prosthesis controlled through inverse dynamic analysis (Universidad de la Sabana).",
     },
     resultado: null,
-    etiquetas: ["Medical Devices", "Predictive Modeling", "Simulation", "MATLAB", "ANSYS"],
+    etiquetas: ["Medical Devices", "Mathematical Modeling", "Simulation", "MATLAB", "ANSYS"],
     galeria: [
       { src: "assets/images/biomedica/simulador-respiratorio.jpg",
         es: "Simulador de biomecánica respiratoria (Minciencias). Participé en su conceptualización y fabricación, en las pruebas de resistencia ventilatoria con un ventilador y en la modelación matemática de su respuesta mecánica.",

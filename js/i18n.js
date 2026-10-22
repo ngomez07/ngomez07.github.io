@@ -8,7 +8,7 @@ const EN = {
 
   "hero.t1": "I turn",
   "hero.t2": "into experiences people live.",
-  "hero.lead": "Mechanical and biomedical engineer leading the technology behind museums and interactive experiences, from concept to installation. From 2022 to 2026, Art & Technology Coordinator at Parque Explora: 40+ products for international cultural institutions.",
+  "hero.lead": "Mechanical and biomedical engineer leading the technology behind museums and interactive experiences, from concept to installation. From 2022 to 2026, at Parque Explora, I led the technology behind interactive experiences for international cultural institutions.",
   "hero.cta1": "See projects",
   "hero.cta2": "Get in touch",
 
@@ -44,5 +44,5 @@ const EN = {
   "edu.langs": "Languages",
 
   "contact.title": "Let's talk",
-  "contact.lead": "Open to Project, Product or Innovation Manager roles in Colombia and the European Union (German passport)."
+  "contact.lead": "Open to university teaching and to Project, Product or Innovation Manager roles in Colombia and the European Union (German passport)."
 };

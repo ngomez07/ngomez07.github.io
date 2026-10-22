@@ -117,7 +117,7 @@ h2 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin-bottom: 32px; }
 .pillar p { color: var(--muted); font-size: .9rem; }
 
 /* ===== Cifras ===== */
-.stats { display: grid; grid-template-columns: repeat(4, 1fr); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .stat { padding: 28px 20px; border-right: 1px solid var(--line); }
 .stat:last-child { border-right: 0; }
 .stat-num { display: block; font-family: var(--font-display); font-size: 2.2rem; color: var(--accent); }
@@ -212,6 +212,7 @@ h2 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin-bottom: 32px; }
   .stats { grid-template-columns: 1fr 1fr; }
   .stat:nth-child(2) { border-right: 0; }
   .stat:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
+  .stat:last-child { grid-column: 1 / -1; }
   .formacion { grid-template-columns: 1fr; }
 }
 
